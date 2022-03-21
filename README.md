@@ -5,6 +5,8 @@
 A fundamental application for generating Karate scenarios in Gherkin by using requests that in Postman Collection.
 > Written by Emre Yavuz  | github.com/emreyvz
 
+<br>
+
 **Scenario Types**
 
 - Happy Paths
@@ -17,18 +19,21 @@ A fundamental application for generating Karate scenarios in Gherkin by using re
 - Scenarios with invalid email address if email field exist in body (Eg: "email" : "this@wontwork" )
 - Scenarios that checks every endpoint's response time is less than 100 ms
 
+<br>
 
 **Split Options**
 - Create new feature file for different endpoints
 - Create new feature file for same type of scenario
 - Do not create extra feature file (use only 1 feature file)
 
+<br>
 
 **How to use**
 - Drag & Drop or choose postman colletion to import
 - Choose scenario types and split option
 - Click 'Generate'
 
+<br>
 
 ## License
 
